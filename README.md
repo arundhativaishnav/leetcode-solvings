@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
