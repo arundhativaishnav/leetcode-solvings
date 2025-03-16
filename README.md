@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 ## Stack
 |  |
