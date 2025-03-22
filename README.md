@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0662-maximum-width-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
