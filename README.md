@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
+| [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
