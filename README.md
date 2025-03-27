@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0520-detect-capital) |
 ## Sliding Window
 |  |
 | ------- |
