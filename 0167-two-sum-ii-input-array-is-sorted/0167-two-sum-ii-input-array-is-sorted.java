@@ -1,14 +1,20 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] res = new int[2];
-        for (int slow = 0; slow < numbers.length; slow++) {
-            for (int fast = slow + 1; fast < numbers.length; fast++) {
-                if (numbers[slow] + numbers[fast] == target) {
-                    res[0] = slow + 1; // Store the index (1-based)
-                    res[1] = fast + 1; // Store the index (1-based)
-                    return res; // Return the result immediately
-                }
+        int left =0;
+        int right = numbers.length -1;
+        while(left < right){
+            int total = numbers[left] + numbers[right];
+            if(total==target){
+                res[0] = left + 1;
+                res[1] = right +1;
+                return res;
+            }else if(total < target){
+                left ++;
+            }else{
+                right --;
             }
+            
         }
         return res; // Return an empty array if no solution is found
     }
