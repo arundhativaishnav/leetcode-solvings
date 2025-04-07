@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sliding Window
 |  |
 | ------- |
