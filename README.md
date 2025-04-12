@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
