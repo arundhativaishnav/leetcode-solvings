@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
+| [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
 ## Sliding Window
 |  |
 | ------- |
