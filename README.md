@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3830-find-closest-person](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3830-find-closest-person) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
