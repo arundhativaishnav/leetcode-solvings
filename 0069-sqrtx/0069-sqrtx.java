@@ -1,21 +1,12 @@
+//using newton's method for finging sqr(x)
 class Solution {
     public int mySqrt(int x) {
-       int start =0;
-       int end = x;
-       while(start<=end){
-            int mid=  start + (end-start)/2;
-            long square = (long) mid*mid;
+       if(x==0) return 0;
 
-            if(square==x){
-                return mid;
-            }
-            else if(square < x){
-                start = mid+1;
-            }
-            else{
-                end =mid-1;
-            }
-       } 
-       return end ;
+       long guess = x;
+       while(guess*guess>x){
+        guess = (guess+x/guess)/2;
+       }
+       return (int) guess;
     }
 }
