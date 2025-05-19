@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2048-build-array-from-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2048-build-array-from-permutation) |
+| [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
+| [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
