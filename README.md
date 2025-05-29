@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
