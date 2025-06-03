@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
