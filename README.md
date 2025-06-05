@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
