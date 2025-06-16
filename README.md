@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2048-build-array-from-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
