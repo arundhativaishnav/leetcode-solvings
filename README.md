@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3830-find-closest-person](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
