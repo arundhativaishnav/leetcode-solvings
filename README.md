@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 ## Greedy
