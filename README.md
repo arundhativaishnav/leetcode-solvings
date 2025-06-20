@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 ## Simulation
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
