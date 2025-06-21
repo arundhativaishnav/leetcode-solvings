@@ -218,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
