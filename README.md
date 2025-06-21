@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0069-sqrtx) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
