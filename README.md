@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 ## Matrix
