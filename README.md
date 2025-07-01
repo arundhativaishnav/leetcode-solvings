@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
