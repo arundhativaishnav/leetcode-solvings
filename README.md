@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 ## Prefix Sum
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1135-customers-who-bought-all-products) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
