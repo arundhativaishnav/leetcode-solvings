@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0069-sqrtx) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
