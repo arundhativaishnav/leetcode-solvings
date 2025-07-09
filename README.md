@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
