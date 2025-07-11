@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0792-binary-search) |
 ## Matrix
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
