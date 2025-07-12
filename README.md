@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0561-array-partition) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1293-three-consecutive-odds) |
 | [1651-shuffle-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1651-shuffle-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
+| [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
+| [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 ## Simulation
 |  |
 | ------- |
