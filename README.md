@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
