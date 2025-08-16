@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2048-build-array-from-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2551-apply-operations-to-an-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2551-apply-operations-to-an-array) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2551-apply-operations-to-an-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2048-build-array-from-permutation) |
+| [2551-apply-operations-to-an-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
 |  |
 | ------- |
