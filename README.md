@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0414-third-maximum-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0792-binary-search) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0541-reverse-string-ii) |
