@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
