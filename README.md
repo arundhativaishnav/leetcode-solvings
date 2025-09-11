@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
