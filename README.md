@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2551-apply-operations-to-an-array) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0645-set-mismatch) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
