@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/2551-apply-operations-to-an-array) |
 | [3321-type-of-triangle](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3321-type-of-triangle) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0645-set-mismatch) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Divide and Conquer
 |  |
 | ------- |
