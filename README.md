@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/1293-three-consecutive-odds) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Divide and Conquer
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0303-range-sum-query-immutable) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0966-binary-subarrays-with-sum) |
 ## Simulation
 |  |
@@ -300,4 +304,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/arundhativaishnav/leetcode-solvings/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
